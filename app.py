@@ -66,7 +66,7 @@ if st.sidebar.checkbox("Show Analysis by Ethnicity", True, key=2):
 
 # near real-time / live feed simulation 
 
-for seconds in range(200):
+for seconds in range(200):   
 #while True: 
     
    
